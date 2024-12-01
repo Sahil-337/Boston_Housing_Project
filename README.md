@@ -5,10 +5,10 @@
 **Boston Housing Prices**  
 
 ### By  
-**Name of Student**  |  **CWID**  
-Mohammed Abrar Ahmed | A20540340  
-Mohammed Sahil       | A20536680  
-Mohammad Anas Hussain | A20548229  
+**Name of Student**  
+Mohammed Sahil   
+Mohammed Abrar Ahmed 
+Mohammad Anas Hussain 
 
 ---
 
@@ -20,7 +20,6 @@ Final Project for CSP 571 at Illinois Tech. Predicting Boston House Prices.
 
 ### Included:  
 - Python Notebook of Source code with all output.  
-- PDF version of the Notebook.  
 - Project Report Submission in PDF format.  
 
 ### Overview:  
