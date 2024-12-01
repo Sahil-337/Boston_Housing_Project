@@ -6,9 +6,9 @@
 
 ### By  
 **Name of Student**  
-Mohammed Sahil      
-Mohammad Anas Hussain
-Mohammed Abrar Ahmed 
+Mohammed Sahil  
+Mohammed Abrar Ahmed  
+Mohammad Anas Hussain 
 
 ---
 
