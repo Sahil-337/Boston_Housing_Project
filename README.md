@@ -1,6 +1,6 @@
 
 # CSP 571 Data Preparation and Analysis
-## Project Report
+## Final Project 
 **On**  
 **Boston Housing Prices**  
 
