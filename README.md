@@ -19,7 +19,8 @@ Final Project for CSP 571 at Illinois Tech. Predicting Boston House Prices.
 ---
 
 ### Included:  
-- Python Notebook of Source code with all output.  
+- Python Notebook of Source code with all output.
+- Dataset BostonHousing.csv file.
 - Project Report Submission in PDF format.  
 
 ### Overview:  
